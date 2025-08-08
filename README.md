@@ -1,10 +1,10 @@
 # ROKBOT-Open-Src
 
 ## 自述
-Rise of Kingdoms Open Source Project (ROKBOT-Open-Src) 是一個用 Python+yolo8輔助開發的遊戲程式，專門用於偵測遊戲中的寶石。
-請將 `gem.pt` 放在 `main.py` 同層資料夾。
-工作原理是利用電腦視窗截圖進行判別，非侵入式獲取座標判別寶石位置
-請勿加上自動點擊(可能會觸發機器人檢測)
+**Rise of Kingdoms Open Source Project (ROKBOT-Open-Src) 是一個用 Python+yolo8輔助開發的遊戲程式，專門用於偵測遊戲中的寶石。**
+**請將 `gem.pt` 放在 `main.py` 同層資料夾。**
+**工作原理是利用電腦視窗截圖進行判別，非侵入式獲取座標判別寶石位置**
+**請勿加上自動點擊(可能會觸發機器人檢測)**
 [![觀看教學影片](https://img.youtube.com/vi/gDa1ipJrP68/0.jpg)](https://youtu.be/gDa1ipJrP68)
 ---
 ## 功能項目
