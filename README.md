@@ -5,6 +5,8 @@
 **請將 `gem.pt` 放在 `main.py` 同層資料夾。**
 **工作原理是利用電腦視窗截圖進行判別，非侵入式獲取座標判別寶石位置**
 **請勿加上自動點擊(可能會觸發機器人檢測)**
+
+
 [![觀看教學影片](https://img.youtube.com/vi/gDa1ipJrP68/0.jpg)](https://youtu.be/gDa1ipJrP68)
 ---
 ## 功能項目
